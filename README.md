@@ -2,10 +2,8 @@
 This project is a refactor of an existing marketing website to improve its accessibility and code structure. It includes semantic HTML elements, optimized CSS, and enhanced accessibility features.
 
 ## Deployed Application
-View the deployed site here: [Horiseon Marketing](https://<your-github-username>.github.io/<your-repository-name>/)
+View the deployed site here: [Horiseon Marketing](https://arrozdpollo.github.io/css-demo-site/)
 
-## Screenshot
-![Screenshot of the website](screenshot.png)
 
 ## Technologies Used
 - HTML
